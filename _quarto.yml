@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "ellastookey.github.io"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    title: "Ella Stookey"
+    navbar:
+      background: primary
+      left:
+        - href: index.qmd
+          text: Home
+        - about.qmd
+        - documents.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
-    toc: true
+    page-layout: full
 
 editor: visual
 

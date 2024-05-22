@@ -1,11 +1,22 @@
 ---
-title: "ellastookey.github.io"
+title: "Ella Stookey"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/ellastookey/
+    - text: Email
+      href: mailto:ellastookey@ucsb.edu
 ---
 
-This is a Quarto website.
+**Welcome!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Nice to meet you! Let's start with a little bit about me. I am Ella Stookey, a third year Environmental Studies (B.S.) student at UC Santa Barbara.
 
 ```{r}
-1 + 1
+
 ```

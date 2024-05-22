@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "documents.html",
+    "href": "documents.html",
+    "title": "documents",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "sjehfadi"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,12 @@
     "title": "Ella Stookey",
     "section": "",
     "text": "Welcome!\nNice to meet you! Let’s start with a little bit about me. I am Ella Stookey, a third year Environmental Studies (B.S.) student at UC Santa Barbara."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

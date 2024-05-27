@@ -1,8 +1,9 @@
 ---
 title: "About"
+toc: true
 ---
 
-About this site
+Some more about me! Here I will share some of both my professional and academic interests as well as hobbies and passions.
 
 ```{r}
 1 + 1

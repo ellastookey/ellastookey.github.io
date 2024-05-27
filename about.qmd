@@ -1,9 +1,16 @@
 ---
 title: "About"
-toc: true
 ---
 
 Some more about me! Here I will share some of both my professional and academic interests as well as hobbies and passions.
+
+**Academics**
+
+**Hobbies**
+
+I spend my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!
+
+Since COVID in 2020, I have been obsessed with yoga – from hot weighted power vinyassas to slower bikram yogas.
 
 ```{r}
 1 + 1

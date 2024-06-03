@@ -1,7 +1,6 @@
 ---
 title: "Ella Stookey"
 image: media/headshot.jpg
-toc: false
 about: 
   template: trestles
   image-shape: rounded

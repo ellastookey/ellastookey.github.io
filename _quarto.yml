@@ -10,8 +10,8 @@ website:
         - href: index.qmd
           text: Home
         - about.qmd
-        - documents.qmd
         - posts.qmd
+        - documents.qmd
 
 format:
   html:

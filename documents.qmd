@@ -1,7 +1,13 @@
 ---
 title: "documents"
+pdf: pdf/resumees193ds.pdf
 about: 
   template: trestles
-  links: 
-    - text: Resume
 ---
+
+
+
+
+
+
+

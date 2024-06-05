@@ -2,25 +2,16 @@ project:
   type: website
   output-dir: docs
 
-# website:
-#     title: "Ella Stookey"
-#     navbar:
-#       background: primary
-#       left:
-#         - href: index.qmd
-#           text: Home
-#         - about.qmd
-#         - documents.qmd
-#         - posts.qmd
-
 website:
-  navbar:
-    title: myWebsiteTitle
-    right:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - posts.qmd # add your posts.qmd file to your navbar!
+    title: "Ella Stookey"
+    navbar:
+      background: primary
+      left:
+        - href: index.qmd
+          text: Home
+        - about.qmd
+        - documents.qmd
+        - posts.qmd
 
 format:
   html:

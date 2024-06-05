@@ -1,5 +1,5 @@
 ---
-title: "My Blog"
+title: "About"
 listing: 
   contents: posts # all Quarto docs in the `posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
@@ -7,3 +7,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
+Some more about me! Here I will share some of both my professional and academic interests as well as hobbies and passions.

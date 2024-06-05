@@ -1,9 +1,11 @@
 ---
 title: "documents"
-pdf: pdf/resumees193ds.pdf
 about: 
   template: trestles
 ---
+
+[Resume](pdf/resumees193ds.pdf)
+
 
 
 

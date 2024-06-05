@@ -1,0 +1,13 @@
+---
+title: "Study Abroad"
+description: Fall 2023-2024 I was fortunate enough to study abroad in Madrid, Spain. Read about some of my favorite experiences and take a look at some photos I love!
+date: 06-05-2024
+image: madridcoverphoto.jpeg
+draft: false
+---
+
+This past fall quarter (August through January) I was lucky enough to have the opportunity to study abroad in Madrid, Spain. This was a wonderful experience and I will be forever grateful for those five months. Below I have included some of my favorite moments, trips, and photos from study abroad.
+
+### Where I Lived in Madrid
+
+While living in Madrid, I had an apartment in the heart of the city

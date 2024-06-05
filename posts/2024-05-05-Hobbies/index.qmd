@@ -2,7 +2,7 @@
 title: "Hobbies"
 description: Click to learn more about what I enjoy doing outside of the classroom!
 date: 06-05-2024
-image: yoga.JPG
+image: lacrosse.JPG
 draft: false
 ---
 

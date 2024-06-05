@@ -1,10 +1,9 @@
 ---
 title: "Education"
 description: Read more about my education and what lead me to my current academic interests!
-author:
-  - name: Ella Stookey
-  - url: https://ellastookey.github.io/
-date: 05-05-2024
+date: 06-05-2024
 image: ucsbcampus.jpeg
 draft: false
 ---
+
+My studies focus on the roots of our current environmental challenges and exploring potential solutions. The knowledge I've gained pursuing my Bachelor of Science degree and through my early work experience, combined with my teamwork skills and work ethic would allow me to make a measurable and positive impact.

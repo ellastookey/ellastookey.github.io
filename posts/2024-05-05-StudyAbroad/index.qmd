@@ -6,6 +6,7 @@ image: madridcoverphoto.JPG
 draft: false
 ---
 
+
 This past fall quarter (August through January) I was lucky enough to have the opportunity to study abroad in Madrid, Spain. This was a wonderful experience and I will be forever grateful for those five months. Below I have included some of my favorite moments, trips, and photos from study abroad.
 
 ## Everyday Life in Madrid
@@ -13,6 +14,7 @@ This past fall quarter (August through January) I was lucky enough to have the o
 ```{r}
 #| eval: true
 #| echo: false
+#| fig-align: "center"
 knitr::include_graphics("retiro.jpeg")
 ```
 
@@ -28,6 +30,7 @@ Although I was living in Madrid, I traveled nearly every weekend to neighboring 
 ```{r}
 #| eval: true
 #| echo: false
+#| fig-align: "center"
 knitr::include_graphics("porto.JPG")
 ```
 
@@ -38,6 +41,7 @@ For my birthday in November, my friends and I planned a trip to Porto, Portugal 
 ```{r}
 #| eval: true
 #| echo: false
+#| fig-align: "center"
 knitr::include_graphics("louvre.JPG")
 ```
 
@@ -45,7 +49,15 @@ I really enjoyed Paris for a number of reasons. I had a friend studying there wh
 
 
 ### Venice, Italy
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("venice.jpeg")
 
+```
+
+Venice was a must see spot for me when planning where to visit while living in Europe -- and it did not disappoint. It was gorgeous weather and in a not too busy time of year, making it the perfect trip. It was a perfect mix of seeing all the touristy spots while still relaxing and people watching. We did a day trip to Bruno Island (pictured above) and explored the colorful island. The food was amazing and it was unlike any other place I have ever seen!
 
 
 

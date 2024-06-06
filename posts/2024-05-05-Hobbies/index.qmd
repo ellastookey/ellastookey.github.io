@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 
-## Outside of school and work, I enjoy spending my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!
+#### Outside of school and work, I enjoy spending my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!
 
 
 ```{r}
@@ -18,6 +18,18 @@ toc: true
 knitr::include_graphics("yoga.JPG")
 ```
 Since COVID in 2020, I have been addicted to yoga. I love doing anything from hot weighted power vinyasas to slower bikram yogas. Wherever I am, I enjoy trying new studios, meeting new people, and testing out new poses. Getting my yoga teacher training certification has always been a goal of mine that I hope to find time to accomplish soon.
+
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+#| out-width: "50%"
+knitr::include_graphics("tubing.JPG")
+```
+
+When possible, I try to spend as much time as I can in and around the ocean. I love going for swims, cold plunges, tubing, and sailing. When I was younger, one of my favorite traditions was the January 1st cold plunge, an event where the whole town meets on the beach and runs into the freezing water. I am so lucky I got to move to another spot by the ocean for UCSB. Very grateful!
+
+
 
 ```{r}
 #| eval: true

@@ -4,7 +4,7 @@ about:
   template: trestles
 ---
 
-On this page you will find some of my professional documents. Take a look and feel free to contact me if you want to discuss anything further!
+## On this page you will find some of my professional documents. Take a look and feel free to contact me if you want to discuss anything further!
 
 [Resume](pdf/resumees193ds.pdf)
 

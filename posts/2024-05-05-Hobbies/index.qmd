@@ -6,16 +6,8 @@ image: yogacover.jpg
 draft: false
 ---
 
-Outside of school and work, I enjoy spending my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!
+## Outside of school and work, I enjoy spending my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!
 
-```{r}
-#| eval: true
-#| echo: false
-#| fig-align: "center"
-knitr::include_graphics("Aquidneck_Island_map.png")
-```
-
-Growing up on a small island in the smallest state makes for a very tight community. My family is my biggest support system. I have one older brother, who recently moved to San Francisco and so I take every opportunity I can to visit. My parents both still live on Aquidneck Island, but love visiting us out west as they both met in SF and still have many friends there. My friends, all of which I have known since birth, live within a mile radius of me and we try to spend every possible moment together. Whether that be swimming in the ocean in the summer or sledding down hills in the winter, we are always doing something.
 
 ```{r}
 #| eval: true

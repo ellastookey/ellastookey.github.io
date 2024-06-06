@@ -1,0 +1,28 @@
+---
+title: "My Home"
+description: Rhode Island is my home and I love it! Click to read more :)
+date: 05-26-2024
+image: AQIcover.png
+draft: false
+---
+
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("Aquidneck_Island_map.png")
+```
+
+Growing up on a small island in the smallest state makes for a very tight community. My family is my biggest support system. I have one older brother, who recently moved to San Francisco and so I take every opportunity I can to visit. My parents both still live on Aquidneck Island, but love visiting us out west as they both met in SF and still have many friends there. My friends, all of which I have known since birth, live within a mile radius of me and we try to spend every possible moment together. Whether that be swimming in the ocean in the summer or sledding down hills in the winter, we are always doing something. See more photos below :)
+
+```{r}
+#| eval: true
+#| echo: false
+#| fig-align: "center"
+knitr::include_graphics("Aquidneck_Island_map.png")
+knitr::include_graphics("folkfest.jpeg")
+knitr::include_graphics("boat.jpeg")
+knitr::include_graphics("wakeboard.jpeg")
+knitr::include_graphics("thirdbeach.jpeg")
+knitr::include_graphics("winter.jpeg")
+```

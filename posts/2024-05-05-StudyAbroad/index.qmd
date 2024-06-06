@@ -22,7 +22,7 @@ knitr::include_graphics("retiro.jpeg")
 
 While living in Madrid, I had an apartment in the heart of the city – Sol. Right outside of Plaza Mayor, our apartment fit 4 people and was a wonderful set up for what we needed. It was about a 7 minute walk to Sol station where we took the metro to class everyday. I studied at University of Carlos III which was located in Getafe, a 25 minute ride from Sol. Here I would attend classes and study in the library each day. During the school nights, my roommates and I enjoyed making dinner together, walking around the city, and embracing the night life (which was tricky for me at first as I am usually not a night owl).
 
-Madrid was wonderful for many reasons. First off, the people were always welcoming and appreciated my broken Spanish. They were as curious to learn about our life in the US as we were to learn about theirs! Additionally, Madrid always had fun activities going on. Every Saturday and Sunday there was a flea market that closed down the streets called El Rastro. A range of vendors attended and it was always fun to walk through. In addition to El Rastro, I enjoyed going to Retiro Park, exploring new neighborhoods, trying new foods and drinks, traveling.
+Madrid was wonderful for many reasons. First off, the people were always welcoming and appreciated my attempt at speaking Spanish. They were as curious to learn about our life in the US as we were to learn about theirs! Additionally, Madrid always had fun activities going on. Every Saturday and Sunday there was a flea market that closed down the streets called El Rastro. A range of vendors attended and it was always fun to walk through. In addition to El Rastro, I enjoyed going to Retiro Park, exploring new neighborhoods, trying new foods and drinks, and traveling.
 
 ## Favorite Trips
 
@@ -37,7 +37,7 @@ Although I was living in Madrid, I traveled nearly every weekend to neighboring 
 knitr::include_graphics("porto.JPG")
 ```
 
-For my birthday in November, my friends and I planned a trip to Porto, Portugal for the weekend. We rented an AirBnB in the wine country, about a 30 minute drive from the city, and friends from UCSB and home (who were studying abroad in other countries in Europe). We had a relaxing weekend in the countryside, sitting by the fire, playing games, and drinking wine (and I was surrounded by all my best friends).
+For my birthday in November, my friends and I planned a trip to Porto, Portugal for the weekend. We rented an AirBnB in the wine country, about a 30 minute drive from the city, and friends from UCSB and home (who were studying abroad in other countries in Europe) all came together. We had a relaxing weekend in the countryside, sitting by the fireplace, playing games, and drinking wine (and I was surrounded by all my best friends).
 
 ### Paris, France
 

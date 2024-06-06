@@ -7,4 +7,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-#### Some more about me! Here I will share some of both my professional and academic interests as well as hobbies and passions.
+#### Some more about me! Here I will share posts about both my professional and academic interests as well as hobbies and passions.

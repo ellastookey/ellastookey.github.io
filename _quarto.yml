@@ -15,8 +15,8 @@ website:
 format:
   html:
     theme: 
-      - lux
-      - styles.scss
+       - lux
+       - styles.scss
     page-layout: full
 
 editor: visual

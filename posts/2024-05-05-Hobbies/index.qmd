@@ -14,8 +14,7 @@ toc: true
 #| eval: true
 #| echo: false
 #| fig-align: "center"
-#| width: 200
-#| height: 200
+#| out-width: "50%"
 knitr::include_graphics("yoga.JPG")
 ```
 Since COVID in 2020, I have been addicted to yoga. I love doing anything from hot weighted power vinyasas to slower bikram yogas. Wherever I am, I enjoy trying new studios, meeting new people, and testing out new poses. Getting my yoga teacher training certification has always been a goal of mine that I hope to find time to accomplish soon.
@@ -24,8 +23,7 @@ Since COVID in 2020, I have been addicted to yoga. I love doing anything from ho
 #| eval: true
 #| echo: false
 #| fig-align: "center"
-#| width: 200
-#| height: 200
+#| out-width: "50%"
 knitr::include_graphics("rollerskate.jpg")
 ```
 

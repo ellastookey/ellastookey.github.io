@@ -1,3 +1,24 @@
 ---
 title: "Work Experience"
 ---
+
+### Outreach and Engagement Intern
+
+-   Green Energy Consumers Alliance, Boston MA – Summer 2024
+
+    -   To be updated
+
+### Business Development Intern
+
+-   Ecogy Energy, Newport RI – Summer 2023
+    -   Assisted in advancing upcoming renewable energy projects and ongoing pipeline initiatives across a wide range of departments
+    -   Constructed financial models using Excel and Google Sheets, formulated proposal presentations, drafted site lease agreements, generated informative Salesforce reports and dashboards, and designed initial system arrays utilizing Helioscope software
+    -   Audited and maintained the client-oriented Ecosuite platform by updating models, proposals, lease agreements, and title reports
+    -   Gained an understanding of utilities, tariffs, and incentives
+
+### Hostess
+
+-   Giusto, Newport RI – Summer 2022
+    -   Oversaw hospitality data management system and proactively updated reservation records
+
+    -   Coordinated guest flow and facilitated special requests between customers and staff in a fast-paced restaurant

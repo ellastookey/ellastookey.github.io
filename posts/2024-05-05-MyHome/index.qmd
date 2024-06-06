@@ -11,6 +11,8 @@ toc: true
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("Aquidneck_Island_map.png")
 ```
 
@@ -20,6 +22,8 @@ Growing up on a small island in the smallest state makes for a very tight commun
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("folkfest.jpeg")
 knitr::include_graphics("boat.jpeg")
 knitr::include_graphics("wakeboard.jpeg")

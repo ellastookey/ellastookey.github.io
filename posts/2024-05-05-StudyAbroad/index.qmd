@@ -16,6 +16,8 @@ This past fall quarter (August through January) I was lucky enough to have the o
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("retiro.jpeg")
 ```
 
@@ -32,6 +34,8 @@ Although I was living in Madrid, I traveled nearly every weekend to neighboring 
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("porto.JPG")
 ```
 
@@ -43,6 +47,8 @@ For my birthday in November, my friends and I planned a trip to Porto, Portugal 
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("louvre.JPG")
 ```
 
@@ -54,6 +60,8 @@ I really enjoyed Paris for a number of reasons. I had a friend studying there wh
 #| eval: true
 #| echo: false
 #| fig-align: "center"
+#| width: 200
+#| height: 200
 knitr::include_graphics("venice.jpeg")
 
 ```

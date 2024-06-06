@@ -4,6 +4,7 @@ description: Fall 2023-2024 I was fortunate enough to study abroad in Madrid, Sp
 date: 06-05-2024
 image: madridcoverphoto.JPG
 draft: false
+toc: true
 ---
 
 

@@ -4,6 +4,7 @@ description: Read more about my education and what lead me to my current academi
 date: 06-01-2024
 image: ucsbcampus.jpeg
 draft: false
+toc: true
 ---
 
 ## At UC Santa Barbara, I am focusing my studies on the root causes of our current environmental challenges and exploring potential solutions.

@@ -4,6 +4,7 @@ description: Click to learn more about what I enjoy doing outside of the classro
 date: 05-21-2024
 image: yogacover.jpg
 draft: false
+toc: true
 ---
 
 ## Outside of school and work, I enjoy spending my free time with friends and family, doing yoga, trying new things, and being outside as much as possible!

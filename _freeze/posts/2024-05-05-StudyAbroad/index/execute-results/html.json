@@ -1,0 +1,15 @@
+{
+  "hash": "308aa485e53ed8d966ad3b1588406d49",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Study Abroad\"\ndescription: Fall 2023-2024 I was fortunate enough to study abroad in Madrid, Spain. Read about some of my favorite experiences and take a look at some photos I love!\ndate: 06-05-2024\nimage: madridcoverphoto.JPG\ndraft: false\n---\n\n\nThis past fall quarter (August through January) I was lucky enough to have the opportunity to study abroad in Madrid, Spain. This was a wonderful experience and I will be forever grateful for those five months. Below I have included some of my favorite moments, trips, and photos from study abroad.\n\n### Everyday Life in Madrid\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](retiro.jpeg)\n:::\n:::\n\n\nWhile living in Madrid, I had an apartment in the heart of the city – Sol. Right outside of Plaza Mayor, our apartment fit 4 people and was a wonderful set up for what we needed. It was about a 7 minute walk to Sol station where we took the metro to class everyday. I studied at University of Carlos III which was located in Getafe, a 25 minute ride from Sol. Here I would attend classes and study in the library each day. During the school nights, my roommates and I enjoyed making dinner together, walking around the city, and embracing the night life (which was tricky for me at first as I am usually not a night owl).\n\nMadrid was wonderful for many reasons. First off, the people were always welcoming and appreciated my broken Spanish. They were as curious to learn about our life in the US as we were to learn about theirs! Additionally, Madrid always had fun activities going on. Every Saturday and Sunday there was a flea market that closed down the streets called El Rastro. A range of vendors attended and it was always fun to walk through. In addition to El Rastro, I enjoyed going to Retiro Park, exploring new neighborhoods, trying new foods and drinks, traveling.\n\n### Favorite Trips\n\nAlthough I was living in Madrid, I traveled nearly every weekend to neighboring cities and countries. Since travel between countries in Europe is easier and cheaper than if I was coming from the US, I used this opportunity to see a range of places. When asked what my favorite trip was while abroad, I can never choose just one, so here are my top three (in no particular order).\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

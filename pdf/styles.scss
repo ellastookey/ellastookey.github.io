@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+// Set font to roboto slab 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 // Define colors
 $darkblue: #053660;
@@ -7,7 +9,12 @@ $teal: #147C91;
 $darkgray: #333333;
 
 //Assign colors
-$darkblue: #053660;
-$navbar-bg: $darkblue; // navbar 
+$navbar-bg: $darkgray; // navbar 
+$navbar-fg:$teal;
+$navbar-hl: $white;
+$navbar-color: $darkblue;
+$body-color: $darkblue;
+$link-color: $darkgray
+
 
 
